@@ -294,7 +294,7 @@ html {
 .carousel {
     display: flex;
     gap: 20px;
-    animation: slide 20s linear infinite;
+    animation: slide 30s linear infinite;
 }
 
 .carousel img {
